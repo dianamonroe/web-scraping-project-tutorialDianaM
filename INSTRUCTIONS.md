@@ -7,7 +7,7 @@ In this project, we are going to obtain and analyze data about Tesla's profit, w
 Make sure you have the Python `pandas` and `requests` packages installed to be able to work on the project. In case you do not have the libraries installed, run them in the console:
 
 ```bash
-pip install pandas requests
+M
 ```
 
 ## Step 2: Download HTML
